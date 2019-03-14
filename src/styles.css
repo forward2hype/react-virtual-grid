@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font: 15px monospace;
+}
+
+html, body, #root, .virtual-grid {
+  width: 100%;
+  height: 100%;
+}
